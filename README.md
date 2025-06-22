@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Flutter+Engineer;Clean+Architecture+Practitioner;DSA+Problem+Solver;System+Design+Learner" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Building+with+Flutter+%26+Clean+Architecture;Sharpening+DSA+and+System+Design;Learning+by+Solving+and+Shipping"
+
 
 ---
 
