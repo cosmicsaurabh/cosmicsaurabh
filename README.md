@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Flutter+Engineer;Clean+Architecture+Practitioner;DSA;System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Flutter+Engineer;Clean+Architecture+Practitioner;DSA+Problem+Solver;System+Design+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
 ### 🚀 About Me
 
 - 🎓 Recent graduate from **IIIT Kota**, B.Tech in Electronics & Communication
-- 👨‍💻 Passionate about **Problem Solving**
-- Currently building in **Flutter** with clean architecture
-- 🔍 700+ problems solved on LeetCode, GFG, Codeforces  
-- 🌱 Currently exploring **spring animations, gesture systems**, and **dependency injection** in Flutter
-- 🧠 Learning **System Design**, **Open Source**, and **Performance Optimization**
-- ⚡ Fun fact: I love building impactful things
+- 👨‍💻 Passionate about **Problem Solving** & building high-quality apps
+- 🧠 700+ problems solved on LeetCode, GFG, Codeforces  
+- 🛠 Currently building in **Flutter** with clean architecture & scalable patterns
+- 🌱 Learning **spring animations**, **custom gestures**, and **dependency injection** in Flutter
+- 🧩 Exploring **System Design**, **Open Source**, and **Performance Optimization**
+- ⚡ Fun fact: I love crafting pixel-perfect UIs with smooth, meaningful motion
 
 ---
 
@@ -26,6 +26,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,cpp,python,firebase,git,github,figma,linux,androidstudio,vscode" />
 </p>
+
+---
+
+### 🚨 Featured Projects
+
+> 🧩 *Real-world apps and engineering-focused builds I'm proud of:*
+
+- 🧾 **[LineLeap Clone](https://github.com/cosmicsaurabh/lineleap-clone)** — An advanced queue-skipping app clone with multi-role authentication, payment screens, and beautiful transitions  
+- 🏃‍♂️ **[Run App](https://github.com/cosmicsaurabh/fitness-app)** — A Strava/Runtastic-inspired running app with real-time tracking and UI polish  
+- 🎴 **[Card Stack UI](https://github.com/cosmicsaurabh/card-stack-ui)** — Custom swipe cards with spring animations and frosted glass, fully responsive
+- 🧱 **[Flutter Clean Architecture Starter](https://github.com/cosmicsaurabh/flutter-clean-arch-starter)** — Production-ready boilerplate for layered architecture using `get_it`, `freezed`, and `dio`
+- 💸 **[Splitwise Clone](https://github.com/cosmicsaurabh/splitwise-clone)** — Track shared expenses with auto-balancing logic & group features
+
+> 🚧 *More projects on the way — always building!*
 
 ---
 
@@ -42,17 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicsaurabh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 🏗️ Featured Projects
-
-Here are a few things I’ve built:
-
-- 🔄 [Splitwise Clone](https://github.com/cosmicsaurabh/splitwise-clone) — Track shared expenses & balances
-- 🏃‍♂️ [Fitness Tracker](https://github.com/cosmicsaurabh/fitness-app) — A Strava/Runtastic-style app
-- 🔍 [Card Stack UI Component](https://github.com/cosmicsaurabh/card-stack-ui) — Custom swipe, frosted-glass, animations in Flutter
-- 📦 [Clean Architecture Boilerplate](https://github.com/cosmicsaurabh/flutter-clean-arch-starter)
 
 ---
 
