@@ -63,8 +63,8 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/cosmicsaurabh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:cosmicsaurabh@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/cosmic-saurabh-yadav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:saurabh.iiitk.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
