@@ -47,17 +47,11 @@
 
 - 🧩 **[Prisoner’s Dilemma Simulator](https://github.com/cosmicsaurabh/Prisoners-s_Dilemma)** — A Python-based game-theory simulator allowing strategy matchups like Tit-for-Tat, Always Defect, and more, with visual leaderboards and scoring logic.
 
-- 🧱 **[Flutter Clean Architecture Starter](https://github.com/cosmicsaurabh/flutter-clean-arch-starter)** — A complete starter kit for scalable Flutter apps using `get_it`, `freezed`, `dio`, layered architecture, and clean separation of concerns.
-
 ---
 
 ### 📱 Feature-Rich UI & Flutter Builds
 
-- 🏃‍♂️ **[Rythm Run](https://github.com/cosmicsaurabh/fitness-app)** — A Strava-style running app built with Flutter. Features include live activity tracking, distance mapping, and an elegant UI with health metrics visualization.
-
-- 🎴 **[Card Stack UI](https://github.com/cosmicsaurabh/card-stack-ui)** — Custom swipeable card UI with spring physics, frosted glass blur, gesture detection, and detailed per-card state transitions in Flutter.
-
-- 💸 **[Splitwise Clone](https://github.com/cosmicsaurabh/splitwise-clone)** — Group expense tracker with auto-balancing logic, debt simplification, and smooth UI interaction, built fully in Flutter.
+- 🏃‍♂️ **[[Rythm Run](https://github.com/cosmicsaurabh/fitness-app)](https://github.com/cosmicsaurabh/RythmRun)** — A Strava-style running app built with Flutter. Features include live activity tracking, distance mapping, and an elegant UI with health metrics visualization.
 
 ---
 
