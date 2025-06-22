@@ -31,15 +31,16 @@
 
 ### 🚨 Featured Projects
 
-> 🧩 *Real-world apps and engineering-focused builds I'm proud of:*
+> 🧩 *Real-world apps and innovative builds I'm proud of:*
 
-- 🧾 **[LineLeap Clone](https://github.com/cosmicsaurabh/lineleap-clone)** — An advanced queue-skipping app clone with multi-role authentication, payment screens, and beautiful transitions  
-- 🏃‍♂️ **[Run App](https://github.com/cosmicsaurabh/fitness-app)** — A Strava/Runtastic-inspired running app with real-time tracking and UI polish  
-- 🎴 **[Card Stack UI](https://github.com/cosmicsaurabh/card-stack-ui)** — Custom swipe cards with spring animations and frosted glass, fully responsive
-- 🧱 **[Flutter Clean Architecture Starter](https://github.com/cosmicsaurabh/flutter-clean-arch-starter)** — Production-ready boilerplate for layered architecture using `get_it`, `freezed`, and `dio`
-- 💸 **[Splitwise Clone](https://github.com/cosmicsaurabh/splitwise-clone)** — Track shared expenses with auto-balancing logic & group features
+- 🧠 **[LineLeap](https://github.com/cosmicsaurabh/lineleap)** — A generative AI-based app that turns user scrobbles into abstract images; combines creativity with automation
+- 🏃‍♂️ **[Run App](https://github.com/cosmicsaurabh/fitness-app)** — A Strava/Runtastic-inspired running tracker with real-time updates and clean UI
+- 🎴 **[Card Stack UI](https://github.com/cosmicsaurabh/card-stack-ui)** — Swipeable card stack with spring animations, frosted glass, and custom gesture handling
+- 🧱 **[Flutter Clean Architecture Starter](https://github.com/cosmicsaurabh/flutter-clean-arch-starter)** — Boilerplate for scalable Flutter apps with layered architecture and `get_it` + `freezed` setup
+- 💸 **[Splitwise Clone](https://github.com/cosmicsaurabh/splitwise-clone)** — Track shared expenses with auto-balancing logic & modern group expense features
 
-> 🚧 *More projects on the way — always building!*
+> 🚧 *More projects coming soon — always experimenting and shipping!*
+
 
 ---
 
