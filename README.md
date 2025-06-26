@@ -51,7 +51,7 @@
 
 ### 📱 (in-Progress)
 
-- 🏃‍♂️ **[[[Rythm Run](https://github.com/cosmicsaurabh/fitness-app)](https://github.com/cosmicsaurabh/RythmRun)](https://github.com/cosmicsaurabh/RythmRun)** — A Strava-style running app built with Flutter. Features include live activity tracking, distance mapping, and an elegant UI with health metrics visualization.
+- 🏃‍♂️ **[Rythm Run](https://github.com/cosmicsaurabh/RythmRun)** — A Strava-style running app built with Flutter. Features include live activity tracking, distance mapping, and an elegant UI with health metrics visualization.
 
 ---
 
