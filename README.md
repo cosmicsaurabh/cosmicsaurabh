@@ -11,13 +11,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Recent graduate from **IIIT Kota**, B.Tech in Electronics & Communication
 - 👨‍💻 Passionate about **Problem Solving** & building high-quality apps
-- 🧠 700+ problems solved on LeetCode, GFG, Codeforces  
 - 🛠 Currently building in **Flutter** with clean architecture & scalable patterns
-- 🌱 Learning **spring animations**, **custom gestures**, and **dependency injection** in Flutter
 - 🧩 Exploring **System Design**, **Open Source**, and **Performance Optimization**
-- ⚡ Fun fact: I love crafting pixel-perfect UIs with smooth, meaningful motion
 
 ---
 
