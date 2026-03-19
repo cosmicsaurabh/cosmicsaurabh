@@ -1,86 +1,66 @@
-<!-- README.md -->
-
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A Software Engineer from India</h3>
+<h1 align="center">Saurabh Yadav</h1>
+<h3 align="center">Software Engineer | Flutter | Clean Architecture | Problem Solving</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Building+with+Flutter+%26+Clean+Architecture;Sharpening+DSA+and+System+Design;Learning+by+Solving+and+Shipping"
-
-
----
-
-### 🚀 About Me
-
-- 👨‍💻 Passionate about **Problem Solving** & building high-quality apps
-- 🛠 Currently building in **Flutter** with clean architecture & scalable patterns
-- 🧩 Exploring **System Design**, **Open Source**, and **Performance Optimization**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,cpp,nodejs,androidstudio,react,firebase,git,github,figma,linux,vscode,python" />
+  Building scalable mobile systems • 700+ DSA problems solved
 </p>
 
 ---
 
-### 🚨 Featured Projects
+## 🧠 About Me
 
-> 🧩 *A collection of innovative builds, real-world apps, and technical experiments :*
-
----
-
-### 🔥 Complexity & Creativity
-
-- 🧠 **[LineLeap](https://github.com/cosmicsaurabh/lineleap)** — A generative AI-based app that transforms user scrobbles into unique abstract visuals, blending creativity with automation logic and image rendering pipelines.
-
-- 📺 **[VideoSharing (React Native)](https://github.com/cosmicsaurabh/Videosharing_reactnative)** — A polished cross-platform mobile app for uploading, viewing, and interacting with short videos. Built in React Native with features like like/reply, video player integration, and content feed.
+- Software Engineer focused on **Flutter and scalable mobile architecture**
+- Strong problem-solving background (**700+ DSA problems across platforms**)
+- Experience building real-world features during internship at Brane Group
+- Exploring **system design, performance optimization, and architecture patterns**
 
 ---
 
-### ⚙️ Technical Simulators & Architectural Starters
+## ⚙️ Tech Stack
 
-- 🧩 **[Prisoner’s Dilemma Simulator](https://github.com/cosmicsaurabh/Prisoners-s_Dilemma)** — A Python-based game-theory simulator allowing strategy matchups like Tit-for-Tat, Always Defect, and more, with visual leaderboards and scoring logic.
-
----
-
-### 📱 (in-Progress)
-
-- 🏃‍♂️ **[Rythm Run](https://github.com/cosmicsaurabh/RythmRun)** — A Strava-style running app built with Flutter. Features include live activity tracking, distance mapping, and an elegant UI with health metrics visualization.
+- **Mobile**: Flutter, Dart, Kotlin (basic Android)
+- **Core**: C++, Data Structures & Algorithms
+- **Backend (working knowledge)**: Node.js
+- **Tools**: Firebase, Git, Linux, Android Studio, VS Code
 
 ---
 
-> 🚧 *More coming soon — always shipping, experimenting, and refining my stack!*
+## 🚀 Key Projects
 
+### 🔹 LineLeap  
+**Generative AI-based visual system (Flutter)**  
+
+- Built a pipeline: **input → transformation → rendering → output**
+- Handles async workflows and dynamic UI updates
+- Focus on **performance, modularity, and clean state management**
+- Continuously refining rendering logic and system design
+
+👉 https://github.com/cosmicsaurabh/lineleap
 
 ---
 
-### 📈 GitHub Stats
+### 🔹 Rythm Run  
+**Running tracker system (Flutter)**  
+
+- Real-time tracking (distance, pace, session metrics)
+- Structured using **clean architecture (data / domain / presentation)**
+- Designed for scalability with future support for analytics and history
+- Continuously improving architecture and performance
+
+👉 https://github.com/cosmicsaurabh/RythmRun
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmicsaurabh&show_icons=true&theme=radical" alt="Saurabh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cosmicsaurabh&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicsaurabh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmicsaurabh&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cosmicsaurabh" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cosmic-saurabh-yadav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:saurabh.iiitk.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cosmicsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="cosmicsaurabh" />
-</p>
+- LinkedIn: https://www.linkedin.com/in/cosmic-saurabh-yadav/
+- Email: saurabh.iiitk.job@gmail.com
