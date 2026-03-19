@@ -37,7 +37,7 @@
 - Backend includes **REST APIs, JWT auth, and structured data modeling (Prisma)**
 - Focus on **data consistency, reliability, and performance**
 
-📱 Play Store: https://play.google.com/store/apps/details?id=YOUR_APP_ID  
+📱 Play Store: https://play.google.com/store/apps/details?id=com.github.cosmicsaurabh.rythmrun  
 👉 https://github.com/cosmicsaurabh/RythmRun
 
 ---
@@ -51,7 +51,7 @@
 - Ensured **smooth UI during long-running operations**
 - Focus on **state isolation and predictable rendering**
 
-📱 Play Store: https://play.google.com/store/apps/details?id=YOUR_APP_ID  
+📱 Play Store: https://play.google.com/store/apps/details?id=com.lineleapp  
 👉 https://github.com/cosmicsaurabh/lineleap
 
 ---
