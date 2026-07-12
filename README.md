@@ -1,80 +1,170 @@
 <h1 align="center">Saurabh Yadav</h1>
-<h3 align="center">Software Engineer | Flutter | Clean Architecture | System Design</h3>
 
 <p align="center">
-  Building production-grade mobile systems • 700+ DSA problems solved
+Software Engineer • Flutter • Backend • System Design
+</p>
+
+<p align="center">
+Building reliable mobile systems, backend services, and offline-first architectures.
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-- Software Engineer focused on **Flutter and scalable mobile architecture**
-- Strong problem-solving background (**700+ DSA problems across platforms**)
-- Experience building **production systems end-to-end (client + backend)**
-- Interested in **system design, performance optimization, and reliability**
+I'm a software engineer who enjoys building software that continues working under real-world conditions—poor networks, long-running tasks, retries, synchronization, and large application state.
 
----
+My recent work focuses on:
 
-## ⚙️ Tech Stack
+- Offline-first mobile applications
+- Clean Architecture
+- Backend APIs with Node.js & PostgreSQL
+- AI-powered application workflows
+- Performance optimization
+- System design
 
-- **Mobile**: Flutter, Dart, Kotlin (basic Android)
-- **Backend**: Node.js, Express, PostgreSQL (Prisma)
-- **Core**: C++, Data Structures & Algorithms
-- **Tools**: Firebase, Git, Linux, Android Studio, VS Code
-
----
-
-## 🚀 Key Projects
-
-### 🔹 Rythm Run  
-**Production-grade fitness tracking system (Flutter + Node.js)**  
-
-- Built end-to-end system with **Flutter client + Node.js backend + PostgreSQL**
-- Implemented **offline-first sync with eventual consistency**
-- Designed **GPS tracking, route analytics, and session persistence**
-- Architected using **clean architecture + repository pattern (Riverpod)**
-- Backend includes **REST APIs, JWT auth, and structured data modeling (Prisma)**
-- Focus on **data consistency, reliability, and performance**
-
-📱 Play Store: https://play.google.com/store/apps/details?id=com.github.cosmicsaurabh.rythmrun  
-👉 https://github.com/cosmicsaurabh/RythmRun
+Outside of work, I've solved **700+ DSA problems** and enjoy studying distributed systems, databases, and application architecture.
 
 ---
 
-### 🔹 LineLeap  
-**AI-powered visual generation system (Flutter)**  
+## Tech Stack
 
-- Built async pipeline: **input → prompt transformation → AI generation → rendering**
-- Integrated external AI APIs with structured request handling
-- Designed for **latency handling, retries, and failure scenarios**
-- Ensured **smooth UI during long-running operations**
-- Focus on **state isolation and predictable rendering**
+### Mobile
 
-📱 Play Store: https://play.google.com/store/apps/details?id=com.lineleapp  
-👉 https://github.com/cosmicsaurabh/lineleap
+- Flutter
+- Dart
+- Riverpod
+- SQLite
+- Android (Kotlin)
+
+### Backend
+
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- REST APIs
+- JWT Authentication
+
+### Cloud & Services
+
+- Firebase
+- Azure
+- Supabase
+- Cloud Storage
+
+### Languages
+
+- Dart
+- TypeScript
+- C++
+- SQL
+
+### Tools
+
+- Git
+- Linux
+- Android Studio
+- VS Code
 
 ---
 
-## 🧩 Engineering Focus
+# Featured Projects
 
-- Designing **scalable mobile architectures (clean architecture, modular layers)**
-- Handling **async workflows, failures, and retries in real-world apps**
-- Building **offline-first systems with sync and consistency guarantees**
-- Optimizing **Flutter rendering performance and state updates**
-- Bridging **mobile ↔ backend systems with clear API contracts**
+## 🏃 RythmRun
+
+A full-stack running tracker built from scratch.
+
+**Highlights**
+
+- Offline-first architecture
+- Background synchronization
+- GPS route tracking
+- Session persistence
+- JWT authentication
+- PostgreSQL + Prisma backend
+- Clean Architecture
+- Riverpod state management
+
+**Tech**
+
+Flutter • Node.js • PostgreSQL • Prisma • SQLite
+
+Repository
+
+> https://github.com/cosmicsaurabh/RythmRun
+
+Play Store
+
+> https://play.google.com/store/apps/details?id=com.github.cosmicsaurabh.rythmrun
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 LineLeap
+
+AI-powered image generation application.
+
+**Highlights**
+
+- Image generation pipeline
+- Prompt transformation
+- Async job handling
+- Retry mechanisms
+- Failure recovery
+- Long-running task management
+- Responsive UI state
+
+**Tech**
+
+Flutter • AI APIs • State Management
+
+Repository
+
+> https://github.com/cosmicsaurabh/lineleap
+
+Play Store
+
+> https://play.google.com/store/apps/details?id=com.lineleapp
+
+---
+
+## Engineering Interests
+
+I'm particularly interested in building systems involving:
+
+- Offline-first applications
+- Distributed synchronization
+- State management
+- Backend architecture
+- Performance optimization
+- Mobile infrastructure
+- API design
+- System reliability
+
+---
+
+## Currently Learning
+
+- Native Android development
+- Distributed systems
+- Advanced PostgreSQL
+- System Design
+- Kubernetes
+- Cloud Infrastructure
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cosmicsaurabh" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cosmicsaurabh"/>
+
 </p>
 
 ---
 
-## 📫 Contact
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/cosmic-saurabh-yadav/
 - Email: saurabh.iiitk.job@gmail.com
