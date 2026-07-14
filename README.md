@@ -33,7 +33,6 @@ Outside of work, I've solved **700+ DSA problems** and enjoy studying distribute
 
 - Flutter
 - Dart
-- Riverpod
 - SQLite
 - Android (Kotlin)
 
@@ -44,7 +43,6 @@ Outside of work, I've solved **700+ DSA problems** and enjoy studying distribute
 - PostgreSQL
 - Prisma
 - REST APIs
-- JWT Authentication
 
 ### Cloud & Services
 
@@ -56,7 +54,7 @@ Outside of work, I've solved **700+ DSA problems** and enjoy studying distribute
 ### Languages
 
 - Dart
-- TypeScript
+- JavaScript
 - C++
 - SQL
 
@@ -84,7 +82,6 @@ A full-stack running tracker built from scratch.
 - JWT authentication
 - PostgreSQL + Prisma backend
 - Clean Architecture
-- Riverpod state management
 
 **Tech**
 
@@ -149,7 +146,6 @@ I'm particularly interested in building systems involving:
 - Distributed systems
 - Advanced PostgreSQL
 - System Design
-- Kubernetes
 - Cloud Infrastructure
 
 ---
