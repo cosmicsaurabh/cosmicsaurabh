@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="mailto:saurabh.iiitk.job@gmail.com"><img src="https://img.shields.io/badge/Email-saurabh.iiitk.job%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/cosmic-saurabh-yadav/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/cosmic-saurabh-yadav/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/cosmicsaurabh"><img src="https://img.shields.io/badge/GitHub-cosmicsaurabh-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/cosmic_saurabh/"><img src="https://img.shields.io/badge/LeetCode-cosmic__saurabh-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </div>
