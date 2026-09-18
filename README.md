@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:0F766E,100:14B8A6&text=Saurabh%20Yadav&fontAlign=50&fontAlignY=38&desc=Mobile%20systems%20that%20stay%20correct%20under%20failure&descAlign=50&descAlignY=58&fontColor=FFFFFF&descColor=CCFBF1&fontSize=44&animation=fadeIn" alt="Saurabh — Mobile systems that stay correct under failure" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:0F766E,100:14B8A6&text=Saurabh&fontAlign=50&fontAlignY=38&desc=Mobile%20systems%20that%20stay%20correct%20under%20failure&descAlign=50&descAlignY=58&fontColor=FFFFFF&descColor=CCFBF1&fontSize=44&animation=fadeIn" alt="Saurabh — Mobile systems that stay correct under failure" />
 </div>
 
 <div align="center">
